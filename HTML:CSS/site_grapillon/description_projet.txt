@@ -1,0 +1,9 @@
+Tout le projet a été coder avec l'Assistant chatGPT d'OpenAI.
+Cela comprend le texte, les noms des vins, les contacts, la tipo, les couleurs...
+Les seules infos dont il disposait été : 
+    - Le site est pour une cave à vin appelée Le Grapillon Gourmand.
+    - Les couleurs du site doivent rappeler le monde du vin.
+    - Il faut proposer plus de vins différents sur le site.
+    - Les différents menus doivent être répartis sur différentes pages du site.
+    - La cave se trouve dans le village de Pibrac en périphérie de Toulouse.
+    - Il faut ajouter un bouton "boutique" qui redirige vers une sélection de vins à acheter.

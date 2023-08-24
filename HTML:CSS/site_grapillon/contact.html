@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Le Grapillon Gourmand - Contact</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Le Grapillon Gourmand</h1>
+      <nav>
+        <ul>
+          <li><a href="accueil.html">Accueil</a></li>
+          <li><a href="a-propos.html">À propos</a></li>
+          <li><a href="nos-vins.html">Nos vins</a></li>
+          <li><a href="evenements.html">Évènements</a></li>
+          <li><a href="boutique.html">Boutique</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+        <!-- autres sections -->
+      <section>
+        <h2>Nous contacter</h2>
+        <p>Vous pouvez nous contacter via le formulaire ci-dessous ou en utilisant les informations de contact suivantes :</p>
+        <ul>
+          <li>Téléphone : 01 23 45 67 89</li>
+          <li>Email : contact@grapillongourmand.com</li>
+          <li>Adresse : 12 Place de la Mairie, 31450 Pibrac</li>
+        </ul>
+        <form action="/submit-contact-form" method="post">
+          <label for="nom">Nom :</label>
+          <input type="text" id="nom" name="nom"><br>
+          <label for="email">Email :</label>
+          <input type="email" id="email" name="email"><br>
+          <label for="message">Message :</label>
+          <textarea id="message" name="message"></textarea><br>
+          <button type="submit">Envoyer</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright Le Grapillon Gourmand</p>
+    </footer>
+  </body>
+</html>
+
