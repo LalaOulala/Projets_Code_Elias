@@ -1,0 +1,55 @@
+User : fait un résumé sous forme de liste pour une base de donnée :
+Licence 1
+À l’inscription en première année de Licence
+(L1), choix du domaine et du portail d’entrée
+pour le domaine STS.
+À la fin du premier semestre, préparation au
+choix de la mention de Licence par le choix
+d’unités d’enseignements optionnels qui
+préfigurent le choix de la mention de L2, ou
+choix de la filière préparation aux concours.
+À la fin du second semestre, choix de la
+mention de Licence ou continuité en filière
+préparation aux concours.
+Licence 2
+Année d’enseignement sous forme de tronc
+commun avec des Unités d’Enseignements
+optionnels en lien avec le parcours visé de
+troisième année de Licence L3.
+À la fin du L2, choix du parcours dans la
+mention de licence choisie. Pour les étudiants
+de la filière préparation au concours,
+admission dans une école ou entrée dans un
+parcours de L3.
+Licence 3
+En L3, dans chaque mention de Licence,
+le choix du parcours répond à l’un des
+3 objectifs envisageables :
+> la poursuite d’études en Master ;
+> la préparation d’un concours administratif ;
+> la préparation à une insertion profession-
+nelle directe (Licence professionnelle).
+Master
+Le Master répond a un double objectif :
+> les métiers de la recherche avec le Master
+recherche et une poursuite d’études en
+Doctorat ;
+> l’insertion professionnelle immédiate à
+Bac + 5 avec le Master professionnel.
+Dans certaines spécialités, les Masters
+recherche et professionnels sont indifférenciés.
+La réforme intervenue en 2009 sur les
+modalités de recrutement des enseignants
+du primaire et du secondaire (mastérisation
+des formations) prévoit qu’il faut être titulaire
+d’un master (Bac+ 5) pour devenir enseignant.
+L’université a mis en place des masters dédiés
+aux métiers de l’enseignement.
+
+IA : Vous voulez un résumé pour ce texte ?
+User : Oui
+AI : Résumé : - À la Licence 1 (L1) : choix du domaine et du portail d’entrée et à la fin du premier semestre, choix de la mention de Licence ou filière préparation aux concours- À la Licence 2 (L2) : année d'enseignement sous forme de tronc commun avec des unités d'enseignements optionnels, et en fin de année, choix du parcours selon la mention et admission dans une école ou entrée en L3 pour ceux qui font une préparation aux concours. - À License 3 (L3): Pour chaque mention choisie, le choix doit répondre à des objectifs (poursuite d'études en Master, préparation à un concours administratif ou une insertion professionnelle directe). - Pour le Master : double objectif de recherche avec le master recherche & insertion professionnelle immédiate. La réforme intervenue en 2009 pour les métiers de l’enseignement nécessite un master pour pouvoir postuler.
+User : Je suis en L1, je ne sais pas quoi faire. Que va t-il se passer pour moi en L2 ?
+AI : Pour votre Licence 2 (L2), vous allez suivre un tronc commun d'enseignement et choisir des unités d'enseignement optionnels en fonction du parcours choisi pour votre troisième année de Licence. Vous devrez également choisir votre parcours à la fin du semestre, selon la mention que vous aurez choisie. Si vous êtes inscrits à une filière préparation aux concours, vous pouvez être admis dans une école ou passer directement en L3.
+User : Qu'est ce qu'une filière préparation au concour
+AI : Les filières de préparation aux concours sont des programmes d'enseignements conçus pour aider les étudiants à réussir leurs examens au cours de leur premier semestre en Licence 1. Les études couvrent un large éventail de sujets liés à la formation, avec un accent mis sur la compréhension et l'application des concepts particuliers qui figurent dans les domaines spécifiques recommandés par chaque école ou université.

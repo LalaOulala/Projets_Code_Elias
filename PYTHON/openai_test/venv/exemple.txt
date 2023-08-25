@@ -1,0 +1,21 @@
+Fiche de révision : Dark pools
+- Les dark pools sont des plateformes de négociation d'actions confidentielles pour les investisseurs institutionnels.
+- Elles ont été créées pour permettre aux investisseurs de placer des ordres importants sans que cela n'affecte le cours de l'action.
+- Les dark pools sont souvent utilisées pour les transactions de grande taille qui pourraient avoir un impact sur le marché s'elles étaient effectuées sur un marché ouvert.
+- Ces plateformes sont souvent décrites comme un "marché parallèle" car elles ne sont pas réglementées de la même manière que les bourses traditionnelles.
+
+Les termes à retenir :
+- Dark pools
+- Plateformes de négociation
+- Investisseurs institutionnels
+- Ordonnances importants
+- Transactions de grande taille
+- Marché parallèle
+- Réglementation
+
+Les questions à se poser :
+- Qu'est-ce qu'un dark pool ?
+- Pourquoi les dark pools ont-ils été créées ?
+- Comment les dark pools sont-elles utilisées ?
+- Comment sont réglementées les dark pools?
+- Qu'est-ce qu'un marché parallèle ?
